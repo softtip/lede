@@ -463,7 +463,7 @@ ar71xx_board_detect() {
 	*"AP143 reference board")
 		name="ap143"
 		;;
-	*"AP147-010 reference board")
+	*"Letv SuperRouter")
 		name="ap147-010"
 		;;
 	*"AP152 reference board")
@@ -1291,6 +1291,9 @@ ar71xx_board_detect() {
 		;;
 	*"TL-WDR6500 v2")
 		name="tl-wdr6500-v2"
+		;;
+	*"TL-WDR6500 v6")
+		name="tl-wdr6500-v6"
 		;;
 	*"TL-WPA8630")
 		name="tl-wpa8630"
